@@ -1,2 +1,3 @@
+start file
 file 2
 Ended file 2
